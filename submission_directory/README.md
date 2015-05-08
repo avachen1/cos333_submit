@@ -8,7 +8,7 @@ by providing a basic explanation of how to do it easily.
 Usage
 -----
 
-    Register for a club account at http://
+    Register for a club account at www.princeton-mealxchange.com/accounts/register. Log in at www.princeton-mealxchange.com/accounts/login. Found out more about our webapp at www.princeton-mealxchange.com/about.
 
 Features
 --------
@@ -41,4 +41,4 @@ You may contact us at princeton.mealxchange@gmail.com OR at mbuono@princeton.edu
 License
 -------
 
-The project is licensed under Princeton's COS 333 course, under the instruction of Professor Brian Kernighan and the guidance of graduate student Kelvin Zou.
+The project is licensed under Princeton University's COS 333 course, under the instruction of Professor Brian Kernighan and the guidance of graduate student Kelvin Zou.
