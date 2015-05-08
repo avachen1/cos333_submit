@@ -8,7 +8,9 @@ by providing a basic explanation of how to do it easily.
 Usage
 -----
 
-    Register for a club account at www.princeton-mealxchange.com/accounts/register. Log in at www.princeton-mealxchange.com/accounts/login. Found out more about our webapp at www.princeton-mealxchange.com/about.
+    Register for a club account at www.princeton-mealxchange.com/accounts/register. 
+    Log in at www.princeton-mealxchange.com/accounts/login. 
+    Found out more about our webapp at www.princeton-mealxchange.com/about.
 
 Features
 --------
